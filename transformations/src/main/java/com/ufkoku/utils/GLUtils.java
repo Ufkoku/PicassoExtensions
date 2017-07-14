@@ -5,10 +5,6 @@ import javax.microedition.khronos.egl.EGLConfig;
 import javax.microedition.khronos.egl.EGLContext;
 import javax.microedition.khronos.egl.EGLDisplay;
 
-/**
- * Created by Zwei on 13.03.2017.
- */
-
 public class GLUtils {
 
     private GLUtils() {
